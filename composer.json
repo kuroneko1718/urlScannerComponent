@@ -1,12 +1,12 @@
 {
-    "name": "modernphp/scanner",
+    "name": "kuro/scanner",
     "description": "Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com/",
     "license": "MIT",
     "authors": [
         {
-            "name": "kuroneko",
+            "name": "kuro",
             "homepage": "https://github.com/kuroneko1718",
             "role": "Developer"
         }
