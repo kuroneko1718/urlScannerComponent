@@ -1,5 +1,5 @@
 {
-    "name": "url-scannar-semo/scanner",
+    "name": "url-scannar-demo/scanner",
     "description": "Scan URLs from a CSV file and report inaccessible URLs",
     "keywords": ["url", "scanner", "csv"],
     "homepage": "http://example.com/",
